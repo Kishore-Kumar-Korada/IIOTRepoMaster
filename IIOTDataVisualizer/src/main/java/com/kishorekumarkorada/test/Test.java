@@ -7,7 +7,7 @@ public class Test {
 		Node node2 = new Node(2);
 		
 	}
-}// TokenStore
+}
 
 class Node {
 	
